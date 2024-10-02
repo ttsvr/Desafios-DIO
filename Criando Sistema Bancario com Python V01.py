@@ -1,3 +1,7 @@
+# Desafio proposto: Criando um Sistema Bancário com Python
+
+# Curso: Sintaxe Básica com Python ( https://encurtador.com.br/pZjC0 )
+
 menu = """
 O que você deseja fazer?
 
